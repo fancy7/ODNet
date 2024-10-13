@@ -1,0 +1,6 @@
+insulator
+insulator damage
+insulator flashover
+hammer
+missing pin
+object invasion
